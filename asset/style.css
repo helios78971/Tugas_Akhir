@@ -1,0 +1,19 @@
+#deteksi-hitung-jumlah-kendaraan {padding-top: 0px;}
+#deteksi-hitung-jumlah-kendaraan a{display: none;}
+#input-video a{display: none;}
+#output-video a{display: none;}
+#status a{display: none;}
+[data-testid="stAppViewBlockContainer"] {padding-top: 2rem; padding-left: 20px; padding-right: 20px;}
+[data-testid="stSidebarUserContent"] {padding-top: 2rem;}
+[data-testid="stHeader"] {background-color: rgba(0,0,0,0); height: 0px;}
+[data-testid="StyledLinkIconContainer"] a {display: none; padding-bottom: 20px;}
+[data-testid="stSidebarUserContent"] {padding-top: 3rem;}
+/* [data-testid="stSidebarContent"] {background-color: #0e1117;} */
+[data-testid="stVerticalBlock"] {padding-top: 0; }
+[data-testid="stAppViewBlockContainer"] {padding-top: 15px;}
+[data-testid="stMarkdownContainer"] > hr {margin: 0px;}
+footer {visibility: hidden;}
+div[data-testid="stStatusWidget"] div button {display: none;}
+#MainMenu {visibility: hidden;}
+.stDeployButton {display:none;}
+[data-testid="StyledFullScreenButton"] {display: none;}
